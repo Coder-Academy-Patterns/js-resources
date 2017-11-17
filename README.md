@@ -10,9 +10,6 @@ https://github.com/Coder-Academy-Patterns/javascript-vs-ruby
 Short tutorials building fun web elements. Plain old JavaScript. Great refresher on HTML & CSS too:
 https://javascript30.com
 
-### JavaScript in depth
-Language, types, functions, browser and DOM, handling events, Canvas, Node.js: http://eloquentjavascript.net
-
 ### React
 React docs tutorial, build tic-tac-toe:
 https://reactjs.org/tutorial/tutorial.html
@@ -20,3 +17,6 @@ https://reactjs.org/tutorial/tutorial.html
 ### Node.js
 Lynda tutorial running through lots of useful Node.js:
 https://www.lynda.com/Node-js-tutorials/Welcome/612195/677534-4.html
+
+### JavaScript in depth
+Language, types, functions, browser and DOM, handling events, Canvas, Node.js: http://eloquentjavascript.net
